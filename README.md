@@ -7,5 +7,7 @@ Agrego esta linea de texto desde el editor web de github para probar git pull en
 
 Se probo git pull y se realiza nueva prueba de envio desde consola a web
 
+Nuevamente mandamos ahora desde web a consola para desgartar fallas en comando git pull
+
 
 
